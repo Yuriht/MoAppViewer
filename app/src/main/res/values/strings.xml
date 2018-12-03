@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mo-Apps</string>
+    <string name="app_status_not_finished">Не закончено</string>
+    <string name="app_status_finished">Закончено</string>
+    <string name="app_payment_not_payed">Не оплачено</string>
+    <string name="app_payment_payed">Оплачено</string>
+</resources>
